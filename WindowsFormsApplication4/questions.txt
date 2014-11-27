@@ -1,0 +1,9 @@
+Vem spelade huvudrollen i filmen fight club?,Johnny deep,Brad pitt,Leonardo Dicaprio,Pitt Brad,B,1
+Vem är USAs president?,Hillary Clinton,Barack Obama,Ronald Mcdonald,Donald Trump,B,1
+Vad heter huvudstaden i spanien?,Madrid,Barcelona,Paris,Mexico city,A,1
+Vilken planet är närmast solen?,Jorden,Mars,Jupiter,Venus,D,2
+Vilket år grundades Skype?,2006,2000,2003,2009,C,2
+Vilken delstat i USA är störst?,Texas,Alabama,Alaska,Kalifornien,C,2
+Vilket land har minst befolkning?,Sverige,Finland,Belgien,Grekland,B,2
+Vem är bäst på midwars?,Macke,Gasn,Epilepsikurt,Hild,B,2
+
