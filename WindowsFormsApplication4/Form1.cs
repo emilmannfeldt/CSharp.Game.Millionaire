@@ -20,6 +20,7 @@ namespace Postkodmiljonaren
         
         public Form1()
         {
+            //states of gui componets
             InitializeComponent();
             QuestionLabel.Visible = false;
             RadioA.Visible = false;
